@@ -1,10 +1,4 @@
-/*
- * grunt-qiniu
- * https://github.com/leo/grunt-qiniu
- *
- * Copyright (c) 2014 leoxie
- * Licensed under the MIT license.
- */
+
 
 'use strict';
 
